@@ -1,1 +1,3 @@
-# RecommendationEngine
+# Coding Problem Recommendation Engine (In Progress)
+
+A Recommendation Engine built upon the behavior of about 3,000 users on a competitive programming website to suggest them new problems to solve. A hybrid recommendation engine is developed that finds similar users, similar unsolved problems, and also incorporates association rules mining to provide recommendation for the user. The recommendation engine also takes into account whether a user is about to level up and recommends problems that are actively solved by the users of the desired level. The system makes use of information on close to 155,000 submissions of about 6,500 problems made by the users of the website.
